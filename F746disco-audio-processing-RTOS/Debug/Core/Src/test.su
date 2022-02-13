@@ -1,0 +1,17 @@
+test.c:83:6:test	8	static
+test.c:134:13:testLED	8	static
+test.c:144:13:testPushButton	8	static
+test.c:154:13:testVCP	16	static
+test.c:169:13:testUSART6	16	static
+test.c:184:13:testQSPI	8	static
+test.c:230:13:testSDRAM	8	static
+test.c:260:13:testSDRAM_DMA	8	static
+test.c:301:13:Fill_Buffer	32	static
+test.c:311:13:Fill_Buffer32	32	static
+test.c:326:16:Buffercmp	24	static
+test.c:340:16:Buffercmp32	24	static
+test.c:359:13:testLCD	48	static
+test.c:415:13:testTouchscreen	56	static
+test.c:456:13:testAUDIO	8	static
+test.c:465:13:testCMSIS_DSP	408	static
+test.c:477:13:testFFT	40	static

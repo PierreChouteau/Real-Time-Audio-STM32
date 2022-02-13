@@ -1,0 +1,5 @@
+disco_base.c:20:6:LED_On	8	static
+disco_base.c:25:6:LED_Off	8	static
+disco_base.c:30:6:LED_Toggle	8	static
+disco_base.c:41:10:PB_GetState	8	static
+disco_base.c:60:5:__io_putchar	16	static

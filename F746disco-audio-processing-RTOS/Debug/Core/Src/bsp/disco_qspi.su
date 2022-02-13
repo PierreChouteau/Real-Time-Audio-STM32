@@ -1,0 +1,10 @@
+disco_qspi.c:31:9:DISCO_QSPI_Read	80	static
+disco_qspi.c:77:9:DISCO_QSPI_Write	96	static
+disco_qspi.c:151:9:DISCO_QSPI_Erase_Block	72	static
+disco_qspi.c:193:9:DISCO_QSPI_Erase_Chip	64	static
+disco_qspi.c:233:9:DISCO_QSPI_GetStatus	72	static
+disco_qspi.c:285:9:DISCO_QSPI_EnableMemoryMappedMode	72	static
+disco_qspi.c:320:9:DISCO_QSPI_ResetMemory	72	static
+disco_qspi.c:362:9:DISCO_QSPI_DummyCyclesCfg	88	static,ignoring_inline_asm
+disco_qspi.c:421:16:QSPI_WriteEnable	96	static
+disco_qspi.c:467:16:QSPI_AutoPollingMemReady	96	static

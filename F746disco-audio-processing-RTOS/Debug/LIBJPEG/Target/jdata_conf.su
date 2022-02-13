@@ -1,0 +1,2 @@
+jdata_conf.c:30:8:read_file	24	static
+jdata_conf.c:37:8:write_file	24	static

@@ -1,0 +1,8 @@
+disco_sdram.c:24:6:DISCO_SDRAM_Initialization_sequence	24	static
+disco_sdram.c:86:9:DISCO_SDRAM_ReadData	24	static
+disco_sdram.c:105:9:DISCO_SDRAM_ReadData_DMA	24	static
+disco_sdram.c:124:9:DISCO_SDRAM_WriteData	24	static
+disco_sdram.c:136:9:DISCO_SDRAM_WriteData_DMA	24	static
+disco_sdram.c:146:9:DISCO_SDRAM_Sendcmd	16	static
+disco_sdram.c:158:6:HAL_SDRAM_DMA_XferCpltCallback	16	static
+disco_sdram.c:170:6:HAL_SDRAM_DMA_XferErrorCallback	16	static

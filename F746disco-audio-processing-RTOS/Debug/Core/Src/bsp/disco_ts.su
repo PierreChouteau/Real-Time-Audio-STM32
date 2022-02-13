@@ -1,0 +1,8 @@
+disco_ts.c:30:6:TS_Init	8	static
+disco_ts.c:46:9:TS_GetState	96	static
+disco_ts.c:163:9:TS_Get_GestureId	24	static
+disco_ts.c:206:9:TS_ResetTouchData	24	static
+disco_ts.c:240:13:TS_GetXY	24	static
+disco_ts.c:360:6:TS_EnableIT	16	static
+disco_ts.c:374:6:TS_DisableIT	16	static
+disco_ts.c:397:13:TS_GetTouchInfo	32	static

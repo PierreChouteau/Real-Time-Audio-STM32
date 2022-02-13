@@ -1,0 +1,5 @@
+disco_sai.c:68:6:start_Audio_Processing	32	static
+disco_sai.c:102:6:setInput	16	static
+disco_sai.c:123:6:HAL_SAI_TxCpltCallback	16	static
+disco_sai.c:126:6:HAL_SAI_TxHalfCpltCallback	16	static
+disco_sai.c:129:6:HAL_SAI_ErrorCallback	16	static

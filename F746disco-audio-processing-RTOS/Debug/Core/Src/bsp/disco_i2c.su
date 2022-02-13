@@ -1,0 +1,7 @@
+disco_i2c.c:37:26:I2Cx_ReadMultiple	48	static
+disco_i2c.c:67:26:I2Cx_WriteMultiple	48	static
+disco_i2c.c:93:13:I2Cx_Error	16	static
+disco_i2c.c:117:6:AUDIO_I2C_Write	32	static
+disco_i2c.c:134:10:AUDIO_I2C_Read	32	static
+disco_i2c.c:160:6:TS_I2C_Write	24	static
+disco_i2c.c:171:9:TS_I2C_Read	32	static
